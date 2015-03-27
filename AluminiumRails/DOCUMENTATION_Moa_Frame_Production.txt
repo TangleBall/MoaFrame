@@ -1,0 +1,3 @@
+DA_MDF_Moa_01_PROD.cb
+DA_MDF_Moa_02_PROD.cb
+	- Files for cutting an entire Moa frame out of MDF, with rail holes suitable for our machines which use aluminuin rails. Our standard production template. Uses a half-sheet CNC, a 6mm CNC bit and 18mm MDF.
